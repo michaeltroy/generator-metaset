@@ -1,4 +1,4 @@
-# generator-nib
+# generator
 
 Yo generator for the nib Front-end components
 

@@ -1,9 +1,9 @@
 # generator
 
-Yo generator for the nib Front-end components
+Yo generator for the metaset Front-end components
 
 ```
-	npm install -g generator-nib
+	npm install -g generator-metaset
 ```
 
 ## API
@@ -13,7 +13,7 @@ Yo generator for the nib Front-end components
 Change into the desired directory you wish to generate your project in from the command line. e.g. 'app'
 
 ```
-	yo nib
+	yo metaset
 ```
 
 Once this command has added installation files, it should automagically run the following commands for you:
@@ -70,7 +70,7 @@ To find these awesome components and more, checkout the [Component github repo](
 From your freshly populated directory (app) run:
 
 ```
-	yo nib:component {name}    // e.g. yo nib:component my-js-component
+	yo metaset:component {name}    // e.g. yo metaset:component my-js-component
 ```
 
 Follow the prompts to create your new component. This new component will then be generated a located alongside the **boot** component.

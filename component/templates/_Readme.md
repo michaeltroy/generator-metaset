@@ -2,7 +2,7 @@
 
 # Installation
 
-    component install nib-components/<%= name %>
+    component install metaset-components/<%= name %>
 
 # API
 

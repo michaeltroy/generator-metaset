@@ -15,5 +15,5 @@ grunt watch
 ### Creating Components
 
 ```
-yo nib:component name
+yo metaset:component name
 ```
